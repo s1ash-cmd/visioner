@@ -1,0 +1,1 @@
+/usr/lib/ccache/bin/clang++ -DQT_QML_DEBUG -g CMakeFiles/visioner.dir/main.cpp.o -o visioner
